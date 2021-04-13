@@ -1,0 +1,14 @@
+{
+  "name": "hillel/geo",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\Geo\\": "./src"
+    }
+  },
+  "require": {
+    "illuminate/support": "^v8.33.1",
+    "geoip2/geoip2": "^v2.11.0"
+  }
+}
+
+
